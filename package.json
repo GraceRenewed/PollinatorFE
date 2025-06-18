@@ -1,7 +1,8 @@
 {
-  "name": "nextjs-app-router-with-firebase-auth",
+  "name": "pollinatorfe",
   "version": "0.1.0",
   "private": true,
+  "author": "Christina Vieau",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
